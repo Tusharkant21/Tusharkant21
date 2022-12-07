@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://tushar-kant-saha-portfolio.netlify.app](https://tushar-kant-saha-portfolio.netlify.app)
 
-- 💬 Ask me about **Java, SQL, DSA, OOPS, HTML, CSS, PHP,**
+- 💬 Ask me about **Java, SQL, DSA, OOPS, HTML, CSS**
 
-- 📫 How to reach me **tusharkant51133@gmail.com**
+- 📫 How to reach me **tusharkant582@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
